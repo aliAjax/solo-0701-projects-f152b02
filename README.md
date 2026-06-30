@@ -40,6 +40,22 @@
 - `hxwl/frontend/hxwlfront-23`：钻井作业进度看板
 - `hxwl/frontend/hxwlfront-24`：炼化装置能耗监控
 
+## 董飞游戏 dfwl/game
+
+- `dfwl/game/dfwlgame-25`：像素接金币
+- `dfwl/game/dfwlgame-26`：记忆翻牌
+- `dfwl/game/dfwlgame-27`：小鸟躲障碍
+- `dfwl/game/dfwlgame-28`：贪吃蛇双速版
+- `dfwl/game/dfwlgame-29`：太空射击
+
+## 何鑫游戏 hxwl/game
+
+- `hxwl/game/hxwlgame-30`：方块消除
+- `hxwl/game/hxwlgame-31`：弹球打砖块
+- `hxwl/game/hxwlgame-32`：迷宫钥匙闯关
+- `hxwl/game/hxwlgame-33`：3D躲避球
+- `hxwl/game/hxwlgame-34`：回合制卡牌对战
+
 ## 运行方式
 
 进入任意项目目录后执行：
