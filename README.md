@@ -56,6 +56,16 @@
 - `hxwl/game/hxwlgame-33`：3D躲避球
 - `hxwl/game/hxwlgame-34`：回合制卡牌对战
 
+## 董飞数据可视化 dfwl/data-visualization
+
+- `dfwl/data-visualization/dfwldataviz-35`：个人消费分析看板
+- `dfwl/data-visualization/dfwldataviz-36`：销售日报可视化页面
+
+## 何鑫数据可视化 hxwl/data-visualization
+
+- `hxwl/data-visualization/hxwldataviz-37`：运营漏斗分析面板
+- `hxwl/data-visualization/hxwldataviz-38`：库存周转分析看板
+
 ## 运行方式
 
 进入任意项目目录后执行：
